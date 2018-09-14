@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Sajimedia/nodedeliveryDependancy#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "npm": "^6.4.1"
+    "npm": "^6.4.1",
+    "socket.io": "^2.1.1"
   }
 }
