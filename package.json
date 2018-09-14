@@ -1,0 +1,22 @@
+{
+  "name": "nodeimaging",
+  "version": "1.0.0",
+  "description": "image sending through delivery dependancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajimedia/nodedeliveryDependancy.git"
+  },
+  "author": "sajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajimedia/nodedeliveryDependancy/issues"
+  },
+  "homepage": "https://github.com/Sajimedia/nodedeliveryDependancy#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
