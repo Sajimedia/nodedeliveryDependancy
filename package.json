@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sajimedia/nodedeliveryDependancy#readme",
   "dependencies": {
+    "base64-to-image": "^1.0.2",
     "express": "^4.16.3",
     "npm": "^6.4.1",
     "socket.io": "^2.1.1"
